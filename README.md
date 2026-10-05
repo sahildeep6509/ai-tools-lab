@@ -14,4 +14,4 @@ The project includes:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sahildeep6509/ai-tools-lab.git# ai-tools-lab
+git clone https://github.com/sahildeep6509/ai-tools-lab.git
